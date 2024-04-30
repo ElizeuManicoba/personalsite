@@ -10,7 +10,7 @@
 locale                   : "pt-BR"
 title                    : "Elizeu Maniçoba"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Inicio"
 description              : &description "personal description"
 url                      : https://elizeumanicoba.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -25,10 +25,10 @@ author:
   name             : "Elizeu Maniçoba"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Natal/Brazil"
+  employer         : "Universidade Federal do Rio Grande do Norte"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "elizeumanicoba@outlook.com.br" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
